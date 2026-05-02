@@ -38,11 +38,10 @@ Welcome to my digital workspace! I specialize in building **Autonomous AI System
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=phonghhd&show_icons=true&theme=radical&t=20260503" height="165" alt="Phong's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phonghhd&layout=compact&theme=radical&t=20260503" height="165" alt="Top Languages" />
-</p>
+![Phong's GitHub stats](https://github-readme-stats.vercel.app/api?username=phonghhd&show_icons=true&theme=radical)
 
-<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phonghhd&layout=compact&theme=radical)
+
+
 
 📫 **How to reach me:** [Connect with me on LinkedIn](https://www.linkedin.com/in/phong-ai-engineer/)
