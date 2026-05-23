@@ -29,6 +29,8 @@ Welcome to my digital workspace! I specialize in building **Autonomous AI System
 * **Memory:** Powered by Pinecone and Neo4j for deep contextual threat intelligence.
 
 #### 🇻🇳 [Vietnamese-AI Framework](https://github.com/phonghhd/vietnamese-ai)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20347845.svg)](https://doi.org/10.5281/zenodo.20347845)
+
 *The first production-ready Machine Learning framework with a 100% native Vietnamese API.*
 * **Capabilities:** Comprehensive ML toolkit featuring native Vietnamese NLP (Underthesea integration), AutoML, Cross-validation, and Neural Networks.
 * **Architecture:** Modular design with built-in Pipeline support, custom CLI (`vai`), and Docker-ready deployment.
