@@ -36,6 +36,12 @@ Welcome to my digital workspace! I specialize in building **Autonomous AI System
 * **Architecture:** Modular design with built-in Pipeline support, custom CLI (`vai`), and Docker-ready deployment.
 * **Mission:** Lowering the barrier to entry for Vietnamese developers by providing highly accessible, native-language AI tools and documentation.
 
+#### 🎛️ [EvoNet-Studio](https://github.com/phonghhd/EvoNet-Studio)
+*An Enterprise-grade No-Code/Low-Code LLM Fine-tuning UI.*
+* **Capabilities:** 1-click LLM fine-tuning via an intuitive Gradio interface, empowering developers to align models without complex environment setups.
+* **Architecture:** Smart Hybrid CPU/GPU detection. Auto-loads Unsloth kernels for 2x faster 4-bit training on GPUs, with graceful fallbacks to native HuggingFace on CPUs.
+* **Deployment:** Fully Dockerized (`docker-compose`) for instant cloud or on-premise execution.
+
 ---
 
 ### 📈 GitHub Stats
