@@ -22,25 +22,27 @@ Welcome to my digital workspace! I specialize in building **Autonomous AI System
 
 ### 🚀 Featured Masterpieces
 
+#### 🎛️ [EvoNet-Studio](https://github.com/phonghhd/EvoNet-Studio)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0002--1458--3406-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0002-1458-3406)
+*An Enterprise-grade No-Code/Low-Code LLM Fine-tuning UI.*
+* **Publication:** [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20375290-blue?style=flat-square)](https://doi.org/10.5281/zenodo.20375290)
+* **Capabilities:** 1-click LLM fine-tuning via an intuitive Gradio interface, empowering developers to align models without complex environment setups.
+* **Architecture:** Smart Hybrid CPU/GPU detection. Auto-loads Unsloth kernels for 2x faster 4-bit training on GPUs, with graceful fallbacks to native HuggingFace on CPUs.
+* **Deployment:** Fully Dockerized (`docker-compose`) for instant cloud or on-premise execution.
+
+#### 🇻🇳 [Vietnamese-AI Framework](https://github.com/phonghhd/vietnamese-ai)
+
+*The first production-ready Machine Learning framework with a 100% native Vietnamese API.*
+* **Publication:** [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20347846-blue?style=flat-square)](https://doi.org/10.5281/zenodo.20347846)
+* **Capabilities:** Comprehensive ML toolkit featuring native Vietnamese NLP (Underthesea integration), AutoML, Cross-validation, and Neural Networks.
+* **Architecture:** Modular design with built-in Pipeline support, custom CLI (`vai`), and Docker-ready deployment.
+* **Mission:** Lowering the barrier to entry for Vietnamese developers by providing highly accessible, native-language AI tools and documentation.
+
 #### 🛡️ [EvoNet-AI-Core](https://github.com/phonghhd/EvoNet-AI-Core)
 *An enterprise-grade Autonomous AI Security Agent.*
 * **Capabilities:** Real-time CVE harvesting, automated vulnerability scanning, and autonomous code patching.
 * **Architecture:** 4-Layer LLM Fallback Routing (NVIDIA -> Groq -> Cloudflare -> Local).
 * **Memory:** Powered by Pinecone and Neo4j for deep contextual threat intelligence.
-
-#### 🇻🇳 [Vietnamese-AI Framework](https://github.com/phonghhd/vietnamese-ai)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20347845.svg)](https://doi.org/10.5281/zenodo.20347845)
-
-*The first production-ready Machine Learning framework with a 100% native Vietnamese API.*
-* **Capabilities:** Comprehensive ML toolkit featuring native Vietnamese NLP (Underthesea integration), AutoML, Cross-validation, and Neural Networks.
-* **Architecture:** Modular design with built-in Pipeline support, custom CLI (`vai`), and Docker-ready deployment.
-* **Mission:** Lowering the barrier to entry for Vietnamese developers by providing highly accessible, native-language AI tools and documentation.
-
-#### 🎛️ [EvoNet-Studio](https://github.com/phonghhd/EvoNet-Studio)
-*An Enterprise-grade No-Code/Low-Code LLM Fine-tuning UI.*
-* **Capabilities:** 1-click LLM fine-tuning via an intuitive Gradio interface, empowering developers to align models without complex environment setups.
-* **Architecture:** Smart Hybrid CPU/GPU detection. Auto-loads Unsloth kernels for 2x faster 4-bit training on GPUs, with graceful fallbacks to native HuggingFace on CPUs.
-* **Deployment:** Fully Dockerized (`docker-compose`) for instant cloud or on-premise execution.
 
 ---
 
