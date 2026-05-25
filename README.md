@@ -22,8 +22,9 @@ Welcome to my digital workspace! I specialize in building **Autonomous AI System
 
 ### 🚀 Featured Masterpieces
 
-#### 🎛️ [EvoNet-Studio](https://github.com/phonghhd/EvoNet-Studio)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0002--1458--3406-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0002-1458-3406)
+
+#### 🎛️ [EvoNet-Studio](https://github.com/phonghhd/EvoNet-Studio)
 
 *An Enterprise-grade No-Code/Low-Code LLM Fine-tuning UI.*
 * **Publication:** [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.20375290-blue?style=flat-square)](https://doi.org/10.5281/zenodo.20375290)
