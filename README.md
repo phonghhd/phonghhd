@@ -1,4 +1,4 @@
-# ⚡ Hi there, I'm Huynh Duong Phong (Founder of EvoNet)
+# ⚡ Hi there, I'm Huynh Duong Phong.
 
 **AI & Security Engineer | System Architect | Tool Maker**
 
